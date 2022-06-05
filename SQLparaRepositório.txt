@@ -1,0 +1,5 @@
+CREATE DATABASE Login
+
+USE Login
+
+CREATE TABLE login (nome varchar(20) primary key, senha varchar(30), pontos integer
